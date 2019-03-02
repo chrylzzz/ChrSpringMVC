@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ChrSpringMVC:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ChrSpringMVC.war">
+      <element id="artifact" artifact-name="ChrSpringMVC:war exploded" />
+    </root>
+  </artifact>
+</component>
